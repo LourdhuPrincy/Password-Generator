@@ -9,4 +9,6 @@
 
 For this project I have refered mdn documents and some articles to generate a password.That password containes upper and lower case alphabates, numbers and symbols.
 
+[live link](https://pwd-generator-app.netlify.app/)
+
 ![screen shot](./Image/screen%20shot.png)
